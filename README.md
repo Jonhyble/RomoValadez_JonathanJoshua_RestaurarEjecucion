@@ -12,7 +12,7 @@ _Departamento de ciencias computacionales_
 ---
 
 ## Introducción
-Se realizará un programa capaz de restaurar la sesión anterior, con los datos que se habían ingresado hasta ese momento.
+Cuando estamos realizando un formulario o incluso escribiendo un documento en Word, suele suceder que algo nos provoque un cierre inesperado, y que esos datos se pierdan, con el tiempo se han ido creando métodos que nos permiten la persistencia de datos, y en esta actividad se verá uno de ellos.
 
 ---
 
